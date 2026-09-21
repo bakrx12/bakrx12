@@ -17,32 +17,27 @@
 ---
 <div align="center">
 <p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <!--  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></a> -->
-    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-%235C2D91.svg?logo=.net&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/py-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JS-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="TawiwandCSS" src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-    <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-%23FFFFFF.svg?logo=MUI&logoColor=black"></a>
-    <a href="#"><img alt="WikiJS" src="https://img.shields.io/badge/wiki.js-%231976D2.svg?logo=wikidotjs&logoColor=white"></a>
-    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next-%23000.svg?logo=next.js&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"></a>
-
-    
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-E34F26.svg?logo=html5&logoColor=white"></a>
+  <!-- <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-4479A1.svg?logo=mysql&logoColor=fff"></a> -->
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-%235C2D91.svg?logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/-%23FFFFFF.svg?logo=MUI&logoColor=black"></a>
+    <a href="#"><img alt="WikiJS" src="https://img.shields.io/badge/-%231976D2.svg?logo=wikidotjs&logoColor=white"></a>
+    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/-%23000.svg?logo=next.js&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/-%2302569B.svg?logo=Flutter&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/-%23000000.svg?logo=unity&logoColor=white"></a>
 </p>
 </div>
 
-
+---
 
 <div align="center">
-    
-### 💻 Favourite Softwares
-
 <p>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="NeoVIM" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff"></a>
@@ -50,8 +45,7 @@
     <a href="#"><img alt="TamperMonkey" src="https://img.shields.io/badge/tm-%2300485B.svg?logo=tampermonkey&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white"></a>
 </p>
 </div>
