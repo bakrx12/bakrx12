@@ -3,21 +3,28 @@
 </div>
 
 ---
-
-### 👨‍💻 Programming languages
-
+<div align="center">
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-%235C2D91.svg?logo=.net&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Wiki" src="https://img.shields.io/badge/Wikipedia-%23000000.svg?logo=wikipedia&logoColor=white"></a>
+    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next-%23000.svg?logo=next.js&logoColor=white"></a>
+    <a href="#"><img alt="TawiwandCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?logo=MUI&logoColor=black"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white"></a>
+    
 </p>
-
+</div>
 <!--
 
 ### 🧰 Frameworks and libraries
