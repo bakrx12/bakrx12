@@ -21,8 +21,8 @@
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white"></a>
-    <a href="#"><img alt="LinkedIn" src="[https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff](https://www.linkedin.com/in/bakrx12/)"></a>
-     <a href="#"><img alt="Upwork" src="[https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff](https://www.upwork.com/freelancers/~01065fbd167df72126)"></a>
+    <a href="#"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+     <a href="#"><img alt="Upwork" src="[https://www.upwork.com/freelancers/~01065fbd167df72126](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)"></a>
     
 </p>
 </div>
