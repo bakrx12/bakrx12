@@ -5,7 +5,7 @@
 <div align="center">
   <p>
     <a href="http://linktr.ee/bakrx12"><img alt="Linktree" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=Linktree&logoColor=white"></a>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
+    <a href="https://discord.com/users/853212880399761429"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
     <a href="https://github.com/bakrx12"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/bakrx12/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
     <a href="https://www.upwork.com/freelancers/~01065fbd167df72126"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff"></a>
