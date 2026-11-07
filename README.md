@@ -186,11 +186,11 @@
 
 ---
 
-[![Now playing on Spotify](/badge/e760d766721a19642ffc69a126d988f994028ac5.svg)](/badge/e760d766721a19642ffc69a126d988f994028ac5/open)
-<sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
+
 
 <p align="center">
-  
+
+  <a href="/badge/e760d766721a19642ffc69a126d988f994028ac5/open"><img src="/badge/e760d766721a19642ffc69a126d988f994028ac5.svg" alt="Now playing on Spotify" width="480" height="104"></a><br><small>via <a href="https://spotifystats.com/?ref=badge">spotifystats.com</a></small>
   
   
   <sub>Reach me at <a href="mailto:bakrx12@outlook.com"><strong>bakrx12@outlook.com</strong></a> or <strong>bakrx12_</strong> on Discord</sub>
